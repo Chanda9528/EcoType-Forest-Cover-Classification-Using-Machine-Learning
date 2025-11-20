@@ -23,8 +23,3 @@ The project includes data preprocessing, model training, and deployment using a 
 - Streamlit
 - Joblib
 
-## Folder Structure
-EcoType-Forest-Cover-Classification/
-??? echo_forest_backend.py
-??? echo_forest_streamlit_ui.py
-??? echo_project_objectives.md
