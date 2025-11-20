@@ -1,0 +1,2 @@
+# EcoType-Forest-Cover-Classification-Using-Machine-Learning
+This project applies machine learning to classify forest cover types using 54 environmental features such as elevation, slope, hillshade, soil type, and hydrology distances. The workflow includes data preprocessing, feature engineering, model training and comparison and deployment through a Streamlit application for real-time cover type prediction.
